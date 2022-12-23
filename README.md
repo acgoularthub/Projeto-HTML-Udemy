@@ -1,7 +1,8 @@
 # Primeiro projeto de HTML
 
-Curso: Desenvolvimento Web Full Stack com Python e Django (Udemy)
-Instrutor: Jamilton Damasceno
+Curso: [Desenvolvimento Web Full Stack com Python e Django (Udemy)](https://www.udemy.com/course/desenvolvimento-web-full-stack-com-python-e-django/)
+
+Instrutor: [Jamilton Damasceno](https://www.linkedin.com/in/jamilton-damasceno-62422938/)
 
 ## Objetivo
 
